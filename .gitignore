@@ -1,0 +1,19 @@
+# Gradle / Android
+.gradle/
+build/
+local.properties
+*.log
+captures/
+.externalNativeBuild/
+.cxx/
+.kotlin/
+
+# Node (webapp_old)
+node_modules/
+
+# Editores e macOS
+.idea/
+.DS_Store
+
+# Local Netlify folder
+.netlify
